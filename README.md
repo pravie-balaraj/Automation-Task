@@ -45,6 +45,10 @@ If there are multiple test case we can also create a test suite with suite setup
 Also additionally we can have a commons and results folders where commons folder to have all the common generic info inside the common folder. For example, URL user credentials etc.
 And results folder to have the test results stored.
 
+I have run the test scripts successfully and the test case have been passed.
+You can also find the test results in the results folder.
+You have report.html, log.html which can be opened in a browser to see the test results, you can expand the test section to see what are the keywords that was run successfully and verify its results line by line. And output.xml, Further which could also be used to update the test results automatically in a test management tools like zephyr or xray. 
+
 Task 2 Solution:
 
 1. To run the same test in Android phone, using the same chrome browser we need to have the below modifications:
