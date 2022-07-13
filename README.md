@@ -20,6 +20,7 @@ Go to command line.
 Navigate to the tests folder directory
 Run the below command:
 robot -d C:\MxAutomation\auto-test\results autotest_test.robot
+
 "C:\MxAutomation\auto-test\results"  replace this with your exact results file location.
 
 
